@@ -22,7 +22,7 @@ Here’s how you can get up and running with this project:
 
 1. **Clone the Repo**
    ```bash
-   git clone https://github.com/nilkanth02/form-validation.git
+   git clone https://github.com/nilkanth02/Form-Validation.git
    ```
 
 2. **Go to the Project Folder**
